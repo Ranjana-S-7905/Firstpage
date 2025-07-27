@@ -1,6 +1,5 @@
 hi 
-<<<<<<< HEAD
-=======
+
 i am Ranjana
->>>>>>> a17c4221debbc33efbcef41ac43af46f7e5a3ae0
+
 i am Aravinth
